@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1588610523 source:c:\users\dacian\desktop\unitaz\3\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

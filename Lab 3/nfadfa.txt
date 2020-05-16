@@ -1,0 +1,11 @@
+#include LIBRARY.1
+
+function powerofn with values : int n, int power
+int value = n
+for power = 0, power++
+n = n + value
+return n
+
+start main
+print powerofn : 10, 5
+stop
