@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1583868973 source:c:\users\adriana\downloads\lab22\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<ctype.h>
+
